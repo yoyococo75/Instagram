@@ -13,7 +13,6 @@
 - Python v3.6 or greater
 - Pip v18 or greater
 
-
 ## Quick Start 🚀
 
 - **Make sure you have Python 3.6 or above installed**
@@ -53,7 +52,6 @@ After the initial configuration, you can manually edit `config.ini` with a text 
 The `%username%.db` file contains a record of the posts the bot has liked, and the users it has followed/unfollowed.
 
 The `%username%.session` file stores your session with Instagram to avoid re-logins each time you start the bot.
-
 
 ## Upgrade ⬆️
 
