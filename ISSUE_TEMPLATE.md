@@ -1,8 +1,4 @@
 <!--
-THIS REPO IS TEMPORARY READ ONLY.
-Create you issue here : https://github.com/yurilaaziz/instabot-py 
-
-
 Before opening a new issue, please ensure:
 - YOU HAVE READ THE ISSUE GUIDELINES! -> https://github.com/instabot-py/instabot.py/wiki/Issue-Guidelines
 - You search for existing bugs/feature requests
