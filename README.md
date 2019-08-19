@@ -1,3 +1,6 @@
+#### This project will be freezed until we will find good developers team. We stopped project development. If you want to be in developer team - email me. Use last version on your own risk. 
+
+
 # Instabot.py 🤖 🌟
 
 **Instabot.py** is an extremely light instagram bot that uses the undocumented Web API. Unlike other bots, Instabot.py does _not_ require Selenium or a WebDriver. Instead, it interacts with the API over simple HTTP Requests. It runs on most systems, including Raspberry Pi.
