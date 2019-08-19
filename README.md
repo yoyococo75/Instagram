@@ -5,6 +5,7 @@
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
 [![Latest version on](https://badge.fury.io/py/instabot-py.svg)](https://badge.fury.io/py/instabot-py)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/instabot-py.svg)](https://pypi.org/project/instabot-py/)
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7BMM6JGE73322&lc=US)
 <!-- [![Travis Pipelines build status](https://img.shields.io/travis/com/yurilaaziz/instabot-py.svg)](https://travis-ci.com/yurilaaziz/instabot-py/) -->
 
 ## Requirements
@@ -154,5 +155,5 @@ follow_per_day: 1000
 - [What’s new in the Instagram bot 0.5.2](https://medium.com/@asker_amine/whats-new-in-the-instagram-bot-0-5-2-fe52154fdc8a)
 ## Community
 
-- [Telegram Group](https://t.me/Instabot.py%20Community/)
-- [New Facebook Group](https://www.facebook.com/groups/2268834063428118/)
+- [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
+- [New Facebook Group](https://www.facebook.com/groups/instabot/)
