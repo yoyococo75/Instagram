@@ -1,4 +1,4 @@
-#### This project will be freezed until we will find good developers team. We stopped project development. If you want to be in developer team - email me. Use last version on your own risk. 
+#### This project will be frozen until we will find good developers team. We stopped project development. If you want to be in developer team - email me. Use last version on your own risk. 
 
 
 # Instabot.py 🤖 🌟
