@@ -150,11 +150,7 @@ follow_per_day: 1000
 
 [Create Telegram bot for instabot](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
 
-## Blogs
-
-- [Instabot-Py Rework: What's changed & how to configure the Telegram handler](https://medium.com/@asker_amine/instabot-py-rework-7fa68a6cadab)
-- [What’s new in the Instagram bot 0.5.2](https://medium.com/@asker_amine/whats-new-in-the-instagram-bot-0-5-2-fe52154fdc8a)
 ## Community
 
 - [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
-- [New Facebook Group](https://www.facebook.com/groups/instabot/)
+
